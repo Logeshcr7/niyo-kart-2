@@ -1,0 +1,8 @@
+{
+  "name": "Remix Algorithm Mobile Comparison",
+  "description": "Comprehensive smartphone comparison platform using algorithmic spec weighting and performance benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
